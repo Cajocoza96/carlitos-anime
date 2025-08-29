@@ -13,11 +13,11 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado un navegador, por
 
 Instalación:
 1. Clona el repositorio:
-git clone https://github.com/tu-usuario/nombre-proyecto.git
+git clone https://github.com/Cajocoza96/carlitos-anime.git         
 
 2. Navega al directorio del proyecto:
-cd nombre-proyecto
+cd carlitos-anime
 
 3. Ejecuta el proyecto:
-Dentro del proyecto busca index.html y ejecutalo 
+Dentro de la raiz del proyecto busca index.html y ejecutalo 
 
